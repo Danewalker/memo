@@ -1,5 +1,5 @@
 
-https://github.com/21moons/memo/blob/master/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98.md
+[Google Translated from] (https://github.com/21moons/memo/blob/master/%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98.md)
 
 
 # 0 [Quick Start] Online Game Programming
